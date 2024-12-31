@@ -1,5 +1,0 @@
-import{P as t}from"./types.C3xBNy2v.js";import{g as a}from"./skills.eY4jPYlu.js";const o="Home",e="Hany",s="Sayed Ahmed",l=` Experienced Senior Software Engineer with over 10 years in software development, specializing in
-Ruby on Rails,. NET Core, Angular, React, Vue.js, Node.js, PostgreSQL, and MySQL. I bring expertise
-in building scalable, efficient, and maintainable full-stack applications, with a strong focus on
-Agile methodologies and continuous improvement. A Certified Scrum Master with a proven ability
-to lead cross-functional teams and deliver high-quality solutions under tight deadlines.`,r=[{platform:t.GitHub,link:"https://github.com/h4hany"},{platform:t.Linkedin,link:"https://www.linkedin.com/in/h4hany"},{platform:t.Twitter,link:"https://twitter.com/"},{platform:t.StackOverflow,link:"https://stackoverflow.com/"},{platform:t.Email,link:"hany.sayed.a@gmail.com"},{platform:t.Youtube,link:"https://www.youtube.com"},{platform:t.Facebook,link:"https://www.facebook.com/h4han"}],c=a("js","css","html","reactjs","sass","python","ts","ror","c#");export{r as a,l as d,s as l,e as n,c as s,o as t};
