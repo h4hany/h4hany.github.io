@@ -75,7 +75,11 @@ const Assets = {
 	ITI:a('iti.svg'),
 	MySQL:a('mysql.jpg'),
 	SqlServer:a('sqlserver.png'),
-	Git:a('github.jpg')
+	Git:a('github.jpg'),
+	heroku:a('heroku.jpeg'),
+	hackerrank:a('hackerrank.webp'),
+	leetcode:a('leetcode.webp'),
+	codewar:a('codewar.png')
 };
 
 export default Assets;

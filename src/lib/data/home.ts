@@ -39,6 +39,18 @@ export const links: Array<{ platform: Platform; link: string }> = [
 	{
 		platform: Platform.Facebook,
 		link: 'https://www.facebook.com/h4han'
+	},
+	{
+		platform: Platform.LeetCode,
+		link: 'https://leetcode.com/h4hany/'
+	},
+	{
+		platform: Platform.HackerRank,
+		link: 'https://www.hackerrank.com/hanysayed_a?hr_r=1'
+	},
+	{
+		platform: Platform.CodeWars,
+		link: 'https://www.codewars.com/users/h4han'
 	}
 ];
 

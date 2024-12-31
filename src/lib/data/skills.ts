@@ -212,38 +212,69 @@ export const items = [
         name: 'Git',
         category: 'vs'
     },),
-	defineSkill(	{
-		slug: 'postgresql',
-		color: 'blue',
-		description: 'PostgreSQL database',
-		logo: Assets.PostgreSQL, // Replace with actual image import
-		name: 'PostgreSQL',
-		category: 'db'
-	}),
-	defineSkill({
-		slug: 'mysql',
-		color: 'orange',
-		description: 'MySQL database',
-		logo: Assets.MySQL, // Replace with actual image import
-		name: 'MySQL',
-		category: 'db'
-	}),
-	defineSkill({
-		slug: 'mongodb',
-		color: 'green',
-		description: 'MongoDB database',
-		logo: Assets.MongoDB, // Replace with actual image import
-		name: 'MongoDB',
-		category: 'db'
-	}),
-	defineSkill({
-		slug: 'sqlserver',
-		color: 'blue',
-		description: 'SQL Server database',
-		logo: Assets.SqlServer, // Replace with actual image import
-		name: 'SQL Server',
-		category: 'db'
-	}),
+    defineSkill({
+        slug: 'postgresql',
+        color: 'blue',
+        description: 'PostgreSQL database',
+        logo: Assets.PostgreSQL, // Replace with actual image import
+        name: 'PostgreSQL',
+        category: 'db'
+    }),
+    defineSkill({
+        slug: 'mysql',
+        color: 'orange',
+        description: 'MySQL database',
+        logo: Assets.MySQL, // Replace with actual image import
+        name: 'MySQL',
+        category: 'db'
+    }),
+    defineSkill({
+        slug: 'mongodb',
+        color: 'green',
+        description: 'MongoDB database',
+        logo: Assets.MongoDB, // Replace with actual image import
+        name: 'MongoDB',
+        category: 'db'
+    }),
+    defineSkill({
+        slug: 'sqlserver',
+        color: 'blue',
+        description: 'SQL Server database',
+        logo: Assets.SqlServer, // Replace with actual image import
+        name: 'SQL Server',
+        category: 'db'
+    }), defineSkill({
+        slug: 'heroku',
+        color: 'blue',
+        description: 'Heroku cloud platform',
+        logo: Assets.heroku, // Replace with actual image import
+        name: 'Heroku',
+        category: 'devops'
+    }),
+    defineSkill({
+        slug: 'aws',
+        color: 'yellow',
+        description: 'Amazon Web Services cloud platform',
+        logo: Assets.AWS, // Replace with actual image import
+        name: 'Aws',
+        category: 'devops'
+    }),
+    defineSkill({
+        slug: 'android',
+        color: 'green',
+        description: 'Mobile development',
+        logo: Assets.Android, // Replace with actual image import
+        name: 'Android',
+        category: 'pro-lang'
+    }),
+    defineSkill({
+        slug: 'java',
+        color: 'green',
+        description: 'programing language',
+        logo: Assets.Java, // Replace with actual image import
+        name: 'Java',
+        category: 'pro-lang'
+    }),
     // defineSkill(),
     // defineSkill(),
     // defineSkill(),

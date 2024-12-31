@@ -15,6 +15,8 @@
 	onMount(() => {
 		marked.use(gfmHeadingId());
 		marked.use(mangle());
+        console.log(marked.parse(content));
+        console.log('onMount triggered');
 
 		const sanitizer = createSanitizer(window);
 
