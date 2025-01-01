@@ -1,4 +1,4 @@
-import{A as e}from"./index.LRSejKNq.js";import{g as n}from"./skills.CtI5lSdC.js";const a=[{slug:"climate-edge",color:"#5e95e3",description:"Climate Edge - ESG&",shortDescription:`A comprehensive emissions management solution enables your business to accurately
+import{A as e}from"./index.DQ43gcRo.js";import{g as n}from"./skills.iuEzkYLV.js";const a=[{slug:"climate-edge",color:"#5e95e3",description:"Climate Edge - ESG&",shortDescription:`A comprehensive emissions management solution enables your business to accurately
 measure, monitor, and reduce its carbon footprint. With real-time insights and
 intuitive dashboards, you can easily identify areas for improvement and track
 progress towards your sustainability goals.

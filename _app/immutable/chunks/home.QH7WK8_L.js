@@ -1,4 +1,4 @@
-import{P as t}from"./types.DVha_s2T.js";import{g as a}from"./skills.CtI5lSdC.js";const n="Home",i="Hany",s="Sayed Ahmed",l=` Experienced Senior Software Engineer with over 10 years in software development, specializing in
+import{P as t}from"./types.DVha_s2T.js";import{g as a}from"./skills.iuEzkYLV.js";const n="Home",i="Hany",s="Sayed Ahmed",l=` Experienced Senior Software Engineer with over 10 years in software development, specializing in
 Ruby on Rails,. NET Core, Angular, React, Vue.js, Node.js, PostgreSQL, and MySQL. I bring expertise
 in building scalable, efficient, and maintainable full-stack applications, with a strong focus on
 Agile methodologies and continuous improvement. A Certified Scrum Master with a proven ability

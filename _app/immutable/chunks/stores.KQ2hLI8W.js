@@ -1,0 +1,1 @@
+import{R as s}from"./scheduler.DH0DiJHp.js";import"./paths.BZGS41uU.js";const t=()=>{const e=s("__svelte__");return{page:{subscribe:e.page.subscribe},navigating:{subscribe:e.navigating.subscribe},updated:e.updated}},b={subscribe(e){return t().page.subscribe(e)}};export{b as p};
