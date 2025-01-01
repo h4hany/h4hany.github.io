@@ -66,6 +66,12 @@ export interface Project<S extends string = string> extends Item<S> {
 	skills: Array<Skill<S>>;
 }
 
+export interface Game<S extends string = string> extends Item<S> {
+	color: Color;
+	type: string;
+	link: string;
+}
+
 export interface Experience<S extends string = string> extends Project<S> {
 	company: string;
 	location: string;

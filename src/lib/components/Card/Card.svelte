@@ -13,6 +13,7 @@
 	export let classes: Array<string> = [];
 	export let href: undefined | string = undefined;
 	export let bgImg: string | undefined = undefined;
+	export let target: string | undefined = undefined;
 
 	$: computedColor = isHexColor(color) ? color : convertNamedToHexColor(color as NamedColor);
 	$: borderColor = changeColorOpacity(computedColor, 0.5);
@@ -65,6 +66,7 @@
 <svelte:element
 	this={href ? 'a' : 'div'}
 	{href}
+	{target}
 	bind:this={el}
 	on:mousemove={onHover}
 	class={`card text-inherit decoration-none inline-flex flex-col border-1px border-solid border-[var(--border)] rounded-15px duration relative ${classes.join(
