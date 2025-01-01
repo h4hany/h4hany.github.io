@@ -26,7 +26,7 @@
         },
         {
             name: 'Dragon',
-            link: 'play-js-dragon',
+            link: 'https://h4hany.github.io/play-js-dragon',
             shortDescription: 'Are you fan of Game of throne? ',
             color:'darkblue',
             logo:Assets.Unknown
